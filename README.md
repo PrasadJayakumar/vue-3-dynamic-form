@@ -1,1 +1,3 @@
-# vue-3-dynamic-form
+# Steps
+1. npm install
+2. npm run dev
